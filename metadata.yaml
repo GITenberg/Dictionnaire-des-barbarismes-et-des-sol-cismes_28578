@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '33415'
     url: http://www.gutenberg.org/2009/agents/33415
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28578#Dictionnaire-des-barbarismes-et-des-sol-cismes
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2009-04-20'
 gutenberg_type: Text
