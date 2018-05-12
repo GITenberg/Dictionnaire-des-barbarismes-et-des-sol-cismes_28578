@@ -1,0 +1,31 @@
+_repo: Dictionnaire-des-barbarismes-et-des-sol-cismes_28578
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Cyr, Narcisse
+    deathdate: 1894
+    gutenberg_agent_id: '33414'
+    url: http://www.gutenberg.org/2009/agents/33414
+  - agent_name: Boucher-Belleville, Jean-Philippe
+    gutenberg_agent_id: '33415'
+    url: http://www.gutenberg.org/2009/agents/33415
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2009-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28578'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Canadianisms, French -- Dictionaries'
+- !lcc 'F1001'
+- !lcsh 'French language -- Usage -- Dictionaries'
+title: Dictionnaire des barbarismes et des solécismes
+url: http://www.gutenberg.org/ebooks/28578
